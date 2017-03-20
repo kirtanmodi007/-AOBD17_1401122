@@ -4,6 +4,9 @@ This is the user defined function for Expectation Maximisation
 2)EM_Test.m
 This is a simple testing script for regenerating an image matrix using the EM Algorithm (EM.m)
 
+2)EM_Test.m
+This is a simple testing script for regenerating a corrupted image matrix using the EM Algorithm (EM.m)
+
 3)EM_Missing.m
 This is the user defined function for Expectation Maximisation for rengenerating an image matrix with missing entries.
 
@@ -14,4 +17,15 @@ This is a simple testing script for regenerating an image matrix with missing va
 This is the user defined function for PPCA without EM
 
 6)PPCA_Test.m
-This is a simple script testing the PPCA.m function for regenerating an image matrix using PPCA without EM	
+This is a simple script testing the PPCA.m function for regenerating an image matrix using PPCA
+
+NOTE: PPCA.m and PPCA_Test.m are initial scripts, the final ones are the EM scripts.
+
+7)RobutsPCA.m
+This is the user defined function for Robust PCA
+
+8)RPCA_Corrupted.m
+This is a simple test script for regenerating an image with corrupted entries using RPCA.m
+
+8)RPCA_Missing.m
+This is a simple test script for regenerating an image with missing entries using RPCA.m
